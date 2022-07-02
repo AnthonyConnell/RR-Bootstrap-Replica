@@ -1,7 +1,7 @@
 import './App.css';
 import TopBar from './components/TopBar';
 import Banner from './components/Banner';
-import StoreListings from './components/Stores';
+import StoreListings from './components/StoreListings';
 
 function App() {
 	return (

@@ -23,4 +23,4 @@ function TopBar(props) {
 	)
 }
 
-export default TopBar
+export default TopBar;
